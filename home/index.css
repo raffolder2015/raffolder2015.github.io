@@ -1,4 +1,3 @@
-.center {
-    margin: auto;
-    padding: 50px;
+.centertext {
+    text-align: center;
 }
