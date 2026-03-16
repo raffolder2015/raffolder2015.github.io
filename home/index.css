@@ -1,6 +1,32 @@
-.centertext, h1 {
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    margin-top: -12px;
+    font-family: 'Segoe UI'; 
+}
+
+.centertext {
     display: flex;
     justify-content: center;
-    height: 200px;
-    border: 3px solid green; 
+}
+
+.border {
+    border: 7px solid white;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.white {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.big {
+    font-size: 50px;
 }
